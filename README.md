@@ -176,13 +176,13 @@ Detect satellite-like objects within video frames using YOLOv5 object detection.
 - Structured Excel dataset
 
 #### Input Video Stream: 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9019eee6-574e-4036-974e-7a78ae79f5f5" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9019eee6-574e-4036-974e-7a78ae79f5f5" />
 
 #### Detected Satellite Image Dataset:
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/2ac7aa98-4469-4c5b-9942-e6c9dec70d61" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2ac7aa98-4469-4c5b-9942-e6c9dec70d61" />
 
 #### Extracted Coordinate Dataset
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/11de85a9-b3d5-4c64-88b4-8da2946b08ef" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/11de85a9-b3d5-4c64-88b4-8da2946b08ef" />
 
 ---
 
@@ -208,13 +208,13 @@ The Z-axis is synthetically generated to enable virtual 3D reconstruction and tr
 - Excel-based storage system
 
 #### Saved Trajectory Frames: 
-<img width="975" height="531" alt="image" src="https://github.com/user-attachments/assets/22e3b9ad-e55c-45f3-a1c4-a990d33893e4" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/22e3b9ad-e55c-45f3-a1c4-a990d33893e4" />
 
 #### Initial Movement Frame — Step 1:
-<img width="569" height="569" alt="image" src="https://github.com/user-attachments/assets/e61ba308-2026-4a23-ab6e-e3af89046671" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e61ba308-2026-4a23-ab6e-e3af89046671" />
 
 #### Final Movement Frame — Step 300:
-<img width="797" height="797" alt="image" src="https://github.com/user-attachments/assets/4e788020-fa4a-418d-9966-32a7ce633b75" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4e788020-fa4a-418d-9966-32a7ce633b75" />
 
 ---
 
