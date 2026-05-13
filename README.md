@@ -438,8 +438,8 @@ Visual comparison of:
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/06eb3f07-bb01-4648-a04f-53b8f2d71609" />
 
-Mean Difference: 0.023398205781697615
-RMSE: 0.3907837471672551
+- Mean Difference: 0.023398205781697615
+- RMSE: 0.3907837471672551
 
 ---
 
@@ -539,10 +539,10 @@ Worst-case observer inconsistency.
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a016c1b4-e013-45e8-b89e-8c23495218e7" />
 
-Mean Difference: 10234.771365276087
-Standard Deviation: 3858.180409713016
-Max Deviation: 14745.723596647982
-Statistical values and images saved successfully.
+- Mean Difference: 10234.771365276087
+- Standard Deviation: 3858.180409713016
+- Max Deviation: 14745.723596647982
+- Statistical values and images saved successfully.
 
 ---
 
