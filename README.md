@@ -89,6 +89,11 @@ Sensor Performance Evaluation
 
 ---
 
+### System Workflow Diagram
+<img width="863" height="3089" alt="Virtual Space Dynamics Toolkit - Structured Execution Pipeline" src="https://github.com/user-attachments/assets/3c447d10-c451-4fc8-89f5-a9a8e60caca3" />
+
+--
+
 ## ⚙️ Technology Stack
 
 ### Core Environment
