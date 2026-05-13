@@ -207,6 +207,15 @@ The Z-axis is synthetically generated to enable virtual 3D reconstruction and tr
 - Spatial tables
 - Excel-based storage system
 
+#### Saved Trajectory Frames: 
+<img width="975" height="531" alt="image" src="https://github.com/user-attachments/assets/22e3b9ad-e55c-45f3-a1c4-a990d33893e4" />
+
+#### Initial Movement Frame — Step 1:
+<img width="569" height="569" alt="image" src="https://github.com/user-attachments/assets/e61ba308-2026-4a23-ab6e-e3af89046671" />
+
+#### Final Movement Frame — Step 300:
+<img width="797" height="797" alt="image" src="https://github.com/user-attachments/assets/4e788020-fa4a-418d-9966-32a7ce633b75" />
+
 ---
 
 ### 🧩 3. 3D Object Movement Visualization
