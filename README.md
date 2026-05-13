@@ -235,6 +235,8 @@ Visualize object movement inside a simulated three-dimensional environment.
 - Sensors → Red markers
 - Trajectory paths → Connected lines
 
+![Uploading image.png…]()
+
 ---
 
 ### 🧩 4. Image-to-Video Reconstruction
