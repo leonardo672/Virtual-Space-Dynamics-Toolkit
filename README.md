@@ -175,6 +175,15 @@ Detect satellite-like objects within video frames using YOLOv5 object detection.
 - Estimated Z-coordinate
 - Structured Excel dataset
 
+#### Input Video Stream: 
+<img width="641" height="502" alt="image" src="https://github.com/user-attachments/assets/9019eee6-574e-4036-974e-7a78ae79f5f5" />
+
+#### Detected Satellite Image Dataset:
+<img width="739" height="351" alt="image" src="https://github.com/user-attachments/assets/2ac7aa98-4469-4c5b-9942-e6c9dec70d61" />
+
+#### Extracted Coordinate Dataset
+<img width="896" height="782" alt="image" src="https://github.com/user-attachments/assets/11de85a9-b3d5-4c64-88b4-8da2946b08ef" />
+
 ---
 
 ### 🧩 2. Coordinate Extraction & Storage
