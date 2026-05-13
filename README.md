@@ -252,7 +252,7 @@ Convert generated simulation frames into continuous MP4 visualization videos.
 - MP4 movement simulation
 
 ### 3D Object Movement Reconstruction Video: 
-<img width="593" height="682" alt="image" src="https://github.com/user-attachments/assets/870c30b4-0e9c-4771-95ae-50993ce0a2a2" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/870c30b4-0e9c-4771-95ae-50993ce0a2a2" />
 
 ---
 
@@ -279,9 +279,9 @@ Trigonometric estimation of:
 Virtual altitude approximation using observer-angle relationships.
 
 #### Generated Results: 
-<img width="882" height="475" alt="image" src="https://github.com/user-attachments/assets/b7f09772-7a47-44e5-862d-6abc2a7dbe85" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b7f09772-7a47-44e5-862d-6abc2a7dbe85" />
 
-<img width="975" height="510" alt="image" src="https://github.com/user-attachments/assets/999f87c1-9c4e-4674-9a06-93a7e0534958" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/999f87c1-9c4e-4674-9a06-93a7e0534958" />
 
 
 ---
@@ -303,14 +303,30 @@ Analyze temporal evolution of:
 - Angle-change plots
 - Altitude visualizations
 
-<img width="795" height="596" alt="image" src="https://github.com/user-attachments/assets/05f57fb6-d5e7-4ade-906d-fb760443c977" />
-<img width="731" height="548" alt="image" src="https://github.com/user-attachments/assets/88d87c8f-2615-4e63-ade5-edb3be154d87" />
-<img width="745" height="559" alt="image" src="https://github.com/user-attachments/assets/9ce26764-9f12-4567-a69b-4aeac447a170" />
-<img width="505" height="379" alt="image" src="https://github.com/user-attachments/assets/2fee7a6e-dd72-4d7b-9063-6508ae920bd4" />
-<img width="518" height="389" alt="image" src="https://github.com/user-attachments/assets/0826f821-3aa5-4395-b5b4-1065c984950b" />
-
-
-
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8c070a9f-f114-4496-a0ea-b03cf9be81d7" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/41aaee05-aadd-4ed0-a603-90074415aa50" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/210f1386-05d4-4133-8838-44ab34cafaa1" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f6476223-422e-448f-a412-ccfedcb59b9b" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7c173ce5-9aac-4aef-aabd-307e735aa6ac" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b2ca3d4c-1419-412f-a6bb-1eb7d631e666" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b818c0b2-52b5-4767-8634-b9b936696e24" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/854c02e9-5ff5-4023-9ce8-ec0cf148955e" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/41b95b0e-66ca-4034-8003-391e9d1b00c1" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/87c9e4b7-4584-4b23-8c88-61e480abde44" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc9dcd12-6ba8-4aa3-8a11-adf27216a770" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/64b91272-2eeb-4880-9578-0eb22b7460fe" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d9eecacc-7242-4b54-a6c8-1b0425c5f041" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4e140268-53ee-4a03-b86d-78a6b9c99ac9" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b49afc6e-0e41-42a4-a6de-747abcc12a85" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/1d6516f8-a658-408b-a041-1bebf92ae8ea" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/274704f4-5c95-4419-ba2c-9bd4e2627b68" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4f6882f2-0f2e-4479-8af9-59f0721f6433" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3d6df443-b4cd-4a49-ab4c-58f756542ba8" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/50a27faf-1d89-4508-94bd-9a86fabed4d2" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ba920e9c-c0e1-45ac-9e3e-12cc21019c68" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/643be022-45bb-4635-9b86-73e77502127a" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5025d3eb-c612-4d00-9485-8832c60c6e1b" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6a61a255-feb8-4812-a9e8-68e9b402fc22" />
 
 ---
 
@@ -335,6 +351,8 @@ Estimate object position mathematically using observer geometry and measured rel
 **Output**
 - `triangulation_results.xlsx`
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4b896261-077b-420f-a5f5-117ff5d380eb" />
+
 ---
 
 ### 🧩 8. Trajectory Analysis
@@ -348,6 +366,10 @@ Analyze triangulated movement consistency and coordinate continuity over time.
 - Positional behavior
 - Coordinate consistency
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8c83b3e8-7aa1-440c-a1a6-7a8de62e372f" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/09288ecc-b94b-4441-87aa-ef8d135aaebd" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/228ed25f-5b6f-4dbe-92f7-8519f364d6b8" />
+
 ---
 
 ### 🧩 9. Post-Triangulation 3D Simulation
@@ -359,6 +381,15 @@ Reconstruct movement using triangulated coordinates inside the virtual 3D enviro
 - Observer interaction rendering
 - Dynamic object movement
 - Simulated trajectory replay
+
+#### Stored 3D Movement Frames After Triangulation: 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a81698a9-bb3e-40fd-8609-29b1d756d928" />
+
+#### Initial Movement Frame — Step 1 After Triangulation: 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7fd0baa4-664f-4487-854b-60751908da4c" />
+
+#### Final Movement Frame — Step 300 After Triangulation: 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5a0cd545-64bf-4921-be1e-2c6e4690a871" />
 
 ---
 
@@ -405,6 +436,11 @@ Visual comparison of:
 - Triangulated spatial plots
 - Difference/error plots
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/06eb3f07-bb01-4648-a04f-53b8f2d71609" />
+
+Mean Difference: 0.023398205781697615
+RMSE: 0.3907837471672551
+
 ---
 
 ### 🧩 12. Discrepancy Detection & Correction
@@ -420,6 +456,8 @@ Detect triangulation inconsistencies and refine coordinate estimation.
 
 **Output**
 - `adjusted_triangulated_coordinates.xlsx`
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e5593d96-a65d-47d4-bf13-5dc458fcba0a" />
 
 ---
 
@@ -458,6 +496,8 @@ Re-run spatial simulation using corrected triangulated coordinates.
 - Observer interaction analysis
 - Improved trajectory visualization
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/772399fb-8475-43a0-a8ba-b119c68de0d9" />
+
 ---
 
 ### 🧩 15. Final Video Reconstruction
@@ -494,6 +534,15 @@ Worst-case observer inconsistency.
 - Statistical Excel reports
 - Sensor-performance visualizations
 - Deviation plots
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/52f12f29-f21c-45f4-8b24-f558669172f5" />
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a016c1b4-e013-45e8-b89e-8c23495218e7" />
+
+Mean Difference: 10234.771365276087
+Standard Deviation: 3858.180409713016
+Max Deviation: 14745.723596647982
+Statistical values and images saved successfully.
 
 ---
 
